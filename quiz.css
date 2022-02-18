@@ -30,17 +30,10 @@ p.JavaScriptQuestion {
   text-indent: 20px;
 }
 
-input.JavaAnswer {
-  text-indent: 20px;
-}
-
 ul {
   text-indent: 20px;
 }
 
-br {
-  text-indent: 20px;
-}
 h2.quizHeader {
   font-family: Arial, sans-serif;
   font-weight: normal;
