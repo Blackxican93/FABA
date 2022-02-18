@@ -5,6 +5,9 @@ p.question {
   margin-bottom: 0px;
 }
 
+h1 {
+  text-align: center;
+}
 h2.quizHeader {
   font-family: Arial, sans-serif;
   font-weight: normal;
